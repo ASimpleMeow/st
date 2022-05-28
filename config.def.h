@@ -125,7 +125,7 @@ static const char *colorname[] = {
 	"#cccccc", /* 256 -> cursor */
 	"#555555", /* 257 -> rev cursor */
 	"black", /* 258 -> bg default foreground colour */
-	"#ebdbb2", /* 259 -> fg default background colour */
+	"white", /* 259 -> fg default background colour */
 };
 
 
